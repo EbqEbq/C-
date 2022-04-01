@@ -46,3 +46,25 @@ int main (){
  } 
  return 0; 
 } 
+
+/*Tugas 2.1 
+➢ Buatlah flowchart dan program dengan Bahasa C++ atau Bahasa C 
+untuk contoh kasus dibawah ini. 
+
+Disebuah Super Market : 
+Jika Pembelian > 500000 diskon 20% 
+Jika Pembelian > 300000 diskon 15% 
+Jika Pembelian > 100000 diskon 10% 
+Jika Pembelian <= 100000 diskon 0% 
+Jumlah Bayar = Pembelian – Diskon 
+
+Dan Hadiah yang akan di dapat oleh pembeli adalah : 
+Jika  Jumlah Bayar > 500000, hadiah  “Payung” 
+Jika  Jumlah Bayar > 300000, hadiah  “Topi” 
+Jika  Jumlah Bayar > 100000, hadiah  “Gelas Cantik” 
+Jika  Jumlah Bayar <= 100000, hadiah  “Tidak Ada” 
+
+Buatlah Program C untuk menentukan diskon dan hadiah bagi pembeli 
+disupermarket tersebut. 
+Sebagai input : Total Pembelian 
+Sebagai Output : Diskon, Jumlah Bayar, Hadiah.*/
